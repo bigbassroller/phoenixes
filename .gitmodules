@@ -1,0 +1,6 @@
+[submodule "addict"]
+	path = addict
+	url = https://github.com/bigbassroller/phoenix
+[submodule "installer/addict"]
+	path = installer/addict
+	url = https://github.com/bigbassroller/addict
